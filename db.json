@@ -1,0 +1,11 @@
+{
+  "alumnos": [
+    { "nombre": "Adri", "edad": 20, "author": "typicode" },
+    { "nombre": "Imelda", "edad": 20, "author": "typicode" },
+    { "nombre": "Fer", "edad": 20, "author": "typicode" }
+  ],
+  "batch": [
+    { "id": 1, "mes": "mayo", "postId": 1 }
+  ],
+  "canales": { "chat": "slack" }
+}
